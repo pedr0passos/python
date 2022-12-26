@@ -1,4 +1,4 @@
-# importanto o pygame
+# importando o pygame
 import pygame
 
 # iniciando o pygame
