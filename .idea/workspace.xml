@@ -4,7 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfaf5d81-39d0-4571-838e-fd02a4b334e5" name="Changes" comment="" />
+    <list default="true" id="cfaf5d81-39d0-4571-838e-fd02a4b334e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/aulas/mundo2/aula12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/mundo2/ex36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/mundo2/ex37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/mundo2/ex38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/mundo2/ex39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/mundo2/ex40.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/a001.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/mundo1/a001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/a006.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/mundo1/a006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/a007.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/mundo1/a007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/a008.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/mundo1/a008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/a009.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/mundo1/a009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/a010.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/mundo1/a010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/.idea/exercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/.idea/exercicios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex013.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex016.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex017.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex018.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex019.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex020.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex021.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex022.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex023.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex024.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex025.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex025.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex026.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex026.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex027.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex027.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex028.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex028.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex029.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex029.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex030.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex030.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex031.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex031.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex032.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex032.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex033.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex033.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex034.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex034.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex035.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/ex035.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/midia/musica.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/mundo1/midia/musica.mp3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +76,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2022.3/python_stubs/-1831317734/builtins.py" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -31,14 +84,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/OneDrive/Documentos/GitHub/python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/pedro/OneDrive/GitHub/python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pedro\OneDrive\GitHub\python\exercicios\mundo1" />
+      <recent name="C:\Users\pedro\OneDrive\GitHub\python\exercicios" />
+      <recent name="C:\Users\pedro\OneDrive\GitHub\python\aulas\mundo1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="aula12" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pedro\OneDrive\GitHub\sihsus_teste\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (sihsus_teste)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/mundo2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/mundo2/aula12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
